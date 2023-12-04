@@ -1,0 +1,27 @@
+.todo{
+    text-align: center;
+    margin-top: 20px;
+}
+.logo{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+.inputs{
+    width: 700px;
+    height: 40px;
+    padding-left: 30px;
+}
+
+.delete{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-right: 22px;
+    margin-bottom: 10px;
+}
